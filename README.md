@@ -60,7 +60,7 @@ git clone https://github.com/your-username/todo-list-app.git
 
 ## 📸 Live Preview
 
-![ToDo App Demo](https://fidelis-martha.github.io/To-Do-List-App/)
+![ToDo App Demo] https://fidelis-martha.github.io/To-Do-List-App/
 
 ## 📌 Future Improvements
 
